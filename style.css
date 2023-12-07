@@ -17,4 +17,32 @@ header {
 .header-links {
   display: flex;
   gap: 32px;
+  font-size: 18px;
+  color: #E5E7EB;
+}
+
+.intro {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  padding: 80px;
+  background-color: #1F2937;
+}
+
+.title {
+  font-size: 48px;
+  font-weight: bolder;
+  color: #F9FAF8;
+  margin: 0;
+}
+
+.title-subtext {
+  font-size: 18px;
+  color: #E5E7EB;
+  /* margin: 0; */
+}
+
+img {
+  width: 500px;
+  height: 350px;
 }
