@@ -160,6 +160,7 @@ article {
   font-weight: bolder;
   color: #1f2937;
   align-self: end;
+  margin-right: 30px;
 }
 
 .action {
@@ -200,4 +201,9 @@ article {
 
 footer {
   background-color: #1f2937;
+  min-height: 90px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
